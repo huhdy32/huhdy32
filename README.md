@@ -9,75 +9,19 @@
 </div>
 
 
-<!-- <h3 align="center">✨ TECH </h3>
+<h3 align="center">✨ TECH </h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/SPRING_BOOT_3.2.2-green?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <br>
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
   <br>
-  <img src="https://img.shields.io/badge/SPRING_BOOT_3.2.2-green?style=for-the-badge&logo=spring&logoColor=white" />
-  <br>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-</div> -->
-
-<!--내용 부분-->
-<h3 align="center">✨ Language </h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> &nbsp
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-</div>
-
-<h3 align="center">✨ Web </h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"> &nbsp
-  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
-</div>
-
-<br>
-
-<h3 align="center">✨ Framework </h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/SPRING_BOOT_3.2.2-green?style=for-the-badge&logo=spring&logoColor=white" />
-</div>
-
-<br>
-
-<h3 align="center">✨ Database </h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL_8-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
-
-<br>
-
-<h3 align="center">✨ ENV </h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white"> &nbsp
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> &nbsp
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
-
-<br>
-
-<h3 align="center">✨ Utils </h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
-  <br>
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-</div> 
+</div>
 
+<br>
 <br>
 
 <h3 align="center">📚 INTERESTES</h3>
