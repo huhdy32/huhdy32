@@ -3,11 +3,17 @@
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&color=387DF7&center=true&vCenter=true&random=true&repeat=true&width=800&height=100&lines=Heejong+Yoon)](https://git.io/typing-svg)
-  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=C7EBF7&center=true&vCenter=true&width=800&height=100&lines=Back-End+Engineer)](https://git.io/typing-svg)
   
 </div>
-
+<div align="center">
+<!--   - SOLID 원칙을 준수함으로써 유지보수 가능한 코드를 작성하는데 흥미가 많습니다. <br>
+  <br>
+  <br>
+  최근 쿼리 튜닝을 통한 성능개선을 도모하기 위해 InnoDB를 탐구하고 있습니다. <br>
+  <br>
+  <br> -->
+</div>
 
 <h3 align="center">✨ TECH </h3>
 <div align="center">
