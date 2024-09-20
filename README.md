@@ -45,20 +45,14 @@
 </div>
 
 <br>
+<br>
+<br>
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=huhdy32&show_icons=true&theme=transparent&custom_title=GITHUB_STATUS" />
 </a>
 </div>
-
-<br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huhdy32&theme=react-dark&title_color=white)](https://github.com/huhdy32/github-readme-activity-graph)
-
-<br>
-
-<br>
 <!-- <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a> -->
