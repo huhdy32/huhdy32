@@ -41,8 +41,9 @@
 
 <h3 align="center">📫 Contact</h3>
 <div align="center">
-  <a href="https://velog.io/@huhdy32">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
+  <a href="https://mong3268.tistory.com/">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=tistory&logoColor=white" />
+    
   </a>
    &nbsp
   <a href="mailto:mong3268@gmail.com">
