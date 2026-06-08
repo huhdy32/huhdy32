@@ -23,8 +23,8 @@
 
 ### 📫 Contact
 <div align="left">
-  <a href="https://mong3268.tistory.com/">
-    <img src="https://img.shields.io/badge/mong3268-FF4500?style=flat-square&logo=tistory&logoColor=white" width="80" />
+  <a href="https://velog.io/@huhdy32">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" width="60" />
   </a>
   <a href="mailto:mong3268@gmail.com">
     <img src="https://img.shields.io/badge/mong3268@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" width="140"/>
