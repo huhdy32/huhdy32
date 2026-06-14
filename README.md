@@ -3,8 +3,6 @@
 - Passionate about designing systems that scale out effectively to handle high traffic
 - Experienced in applying CQRS to improve system performance and separation of concerns
 - Focused on query optimization and caching strategies for building high-performance backend services
-- Currently interested in contributing to open source projects
-
 
 
 ### ✨ Activities
