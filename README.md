@@ -12,9 +12,10 @@
 ### ✨ Skills 
 <div align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-%2382bd4e?style=flat-square&logo=spring&logoColor=white" width="100" heigth="70"/>
-  <img src="https://img.shields.io/badge/Java_17-437291?style=flat-square&logo=openjdk&logoColor=white" width="80"/>
+  <img src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=openjdk&logoColor=white" width="60"/>
   <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" width="65"/>
-  <img src="https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white" width="80"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" width="80"/>
+  <img src="https://img.shields.io/badge/InfluxDB-%2322ADF6.svg?style=for-the-badge&logo=InfluxDB&logoColor=white" width="85"/> 
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" width="70"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka" width="105"/> 
 </div>
